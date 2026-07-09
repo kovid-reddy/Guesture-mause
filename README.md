@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./demo-assets/banner.png" alt="AI Gesture Mouse Control Banner" width="100%">
+  <img src="./demo-assets/dashboard.png" alt="AI Gesture Mouse Control Banner" width="100%">
 </p>
 
 <h1 align="center">Gesture Mouse Control</h1>
