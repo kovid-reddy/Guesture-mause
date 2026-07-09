@@ -45,6 +45,16 @@ The project focuses on low-latency interaction, smooth cursor movement, and intu
 
 ---
 
+## 🎥 Demo
+
+<p align="center">
+<img src="./demo-assets/demo.gif" width="95%">
+</p>
+
+<p align="center">
+<i>Real-time cursor movement, click gestures, and swipe navigation.</i>
+</p>
+
 ## ✨ Features
 
 - 🖱️ Smooth real-time cursor movement
